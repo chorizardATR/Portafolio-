@@ -183,9 +183,9 @@ function createEnhancedGallery() {
     imagenesContainer.className = 'galeria__container';
     
     const imagenes = [
-        { src: 'imagenes/F1 A.jpg', alt: 'Fórmula 1 - Automovilismo', titulo: 'Pasión por la velocidad' },
-        { src: 'imagenes/F1 M.jpg', alt: 'Fórmula 1 - Monoplaza', titulo: 'Ingeniería de precisión' },
-        { src: 'imagenes/F1 F.jpg', alt: 'Fórmula 1 - Circuito', titulo: 'Adrenalina pura' },
+        { src: 'Imagenes/F1 A.jpg', alt: 'Fórmula 1 - Automovilismo', titulo: 'Pasión por la velocidad' },
+        { src: 'Imagenes/F1 M.jpg', alt: 'Fórmula 1 - Monoplaza', titulo: 'Ingeniería de precisión' },
+        { src: 'Imagenes/F1 F.jpg', alt: 'Fórmula 1 - Circuito', titulo: 'Adrenalina pura' },
     ];
     
     // Imagen principal con información
